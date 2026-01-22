@@ -1,8 +1,7 @@
-# DocuHub
-
 <div align="center">
 
-![DocuHub Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=DocuHub+-+Privacy-First+Document+Processing)
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/f245dba9-a147-4d19-8278-541d239d531e" />
+
 
 **🔒 Privacy-first document processing. Entirely in your browser. Zero uploads.**
 
